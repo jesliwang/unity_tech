@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <symbol name="FINAL_BUILD;SUPER_STARTUP" comment="최적화 버전" />
+  <symbol name="FINAL_BUILD;SUPER_STARTUP;ISEEYOU" comment="리소스 검수 버전" />
+  <symbol name="FINAL_BUILD;HIDE_FPS" comment="릴리즈 버전" />
+</root>
