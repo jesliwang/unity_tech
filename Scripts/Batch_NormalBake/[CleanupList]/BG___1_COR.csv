@@ -1,0 +1,65 @@
+Name, Textures 
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/A_ETC/Mountains/Materials/Mountain14.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : Mountain14 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/A_ETC/Mountains/Materials/Mountain18.uasset, *[Mask] : mask_0_1_1 	*[Normal] : Mountain18_nmp 	*[Albedo] : Mountain18 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/A_ETC/Mountains/Materials/Mountain_dark.uasset, *[Mask] : mask_0_1_1 	*[Normal] : Mountain14_nmp 	*[Albedo] : Mountain14 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/Fog_MAT_Inst.uasset, *[fog tex] : T_FOG_a 	*[Foggy_Area_1] : T_F01_Landscape_AO_TA_Fog 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/Fog_MAT_Inst1.uasset, *[fog tex] : T_FOG_a 	*[Foggy_Area_1] : T_F10_fogbasic01_rg 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/Fog_MAT_Inst_desert.uasset, *[fog tex] : T_FOG_a 	*[Foggy_Area_1] : T_F01_Landscape_AO_TA_Fog 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/Fog_MAT_Sphere.uasset, *[fog tex] : T_FOG_b 	*[Foggy_Area_1] : T_F01_Landscape_AO_TA_Fog 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_F09_Fog_Cylinder.uasset, *[fog tex] : T_FOG_a 	*[Foggy_Area_1] : T_F01_Landscape_AO_TA_Fog 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_F09_Fog_MAT.uasset, *[fog tex] : T_FOG_a 	*[Foggy_Area_1] : T_F01_Landscape_AO_TA_Fog 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_F09_Fog_MAT1.uasset, *[fog tex] : T_FOG_a 	*[Foggy_Area_1] : T_F01_Landscape_AO_TA_Fog 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_F09_Fog_MAT2.uasset, *[fog tex] : T_FOG_a 	*[Foggy_Area_1] : T_F01_Landscape_AO_TA_Fog 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_F09_Fog_MAT3.uasset, *[fog tex] : T_FOG_a 	*[Foggy_Area_1] : T_F01_Landscape_AO_TA_Fog 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_F09_Fog_MAT4.uasset, *[fog tex] : T_FOG_a 	*[Foggy_Area_1] : T_F01_Landscape_AO_TA_Fog 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_F09_Fog_MAT_Sphere.uasset, *[fog tex] : T_FOG_b 	*[Foggy_Area_1] : T_F01_Landscape_AO_TA_Fog 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_F09_Fog_Sphere.uasset, *[fog tex] : T_FOG_a 	*[Foggy_Area_1] : T_F01_Landscape_AO_TA_Fog 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_FD03_Fog_MAT.uasset, *[fog tex] : T_FOG_a 	*[Foggy_Area_1] : T_F01_Landscape_AO_TA_Fog 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_pr_Brazier_a_01_dn.uasset, *[Mask] : T_pr_Brazier_a_01_ME 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : T_pr_Brazier_a_01_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_pr_Brazier_a_01_dn_VertexLit_02_TA.uasset, *[Albedo] : T_pr_Brazier_a_01_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_pr_Brazier_a_01_dn_VertexLit_TA.uasset, *[Albedo] : T_pr_Brazier_a_01_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_pr_WoodCart_b_01_dn.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : T_pr_WoodCart_b_01_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_pr_WoodCart_b_01_dn1.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : T_pr_WoodCart_b_01_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_pr_WoodCart_c_01_dn.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : T_pr_WoodCart_c_01_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_pr_WoodFence_b_01_dn.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : T_pr_WoodFence_b_01_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_Sky_Day.uasset, 
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/M_Sky_Night.uasset, 
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/T_Stone_pile_a.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : T_Stone_pile_a 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Common/Material/T_Stone_pile_a_WS.uasset, *[weather Tex] : weather_m 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : T_Stone_pile_a 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/INST_ScatteredRocks_02.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : Desert_ScatteredRocks_01_Dif 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/INST_ScatteredRocks_03.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : Desert_ScatteredRocks_01_Dif 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/INST_ScatteredRocks_04.uasset, *[Mask] : mask_0_1_1 	*[Normal] : Rock6_nmp 	*[Albedo] : Desert_ScatteredRocks_01_Dif 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/INST_ScatteredRocks_05.uasset, *[Mask] : mask_0_1_1 	*[Normal] : Rock6_nmp 	*[Albedo] : Desert_ScatteredRocks_01_Dif 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/INST_ScatteredRocks_06.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_Water_N_01 	*[Albedo] : Desert_ScatteredRocks_01_Dif 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/INST_ScatteredRocks_07.uasset, *[Mask] : mask_0_1_1 	*[Normal] : Rock6_nmp 	*[Albedo] : Desert_ScatteredRocks_01_Dif 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/INST_ScatteredRocks_08.uasset, *[Mask] : mask_0_1_1 	*[Normal] : Rock6_nmp 	*[Albedo] : Desert_ScatteredRocks_01_Dif 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/INST_ScatteredRocks_09.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_Water_N_01 	*[Albedo] : Desert_ScatteredRocks_01_Dif 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/INST_ScatteredRocks_09_Paint.uasset, *[Albedo] : Desert_ScatteredRocks_01_Dif 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/INST_ScatteredRocks_10.uasset, *[Mask] : mask_0_1_1 	*[Normal] : Rock6_nmp 	*[Albedo] : Desert_ScatteredRocks_01_Dif 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/INST_ScatteredRocks_11.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_Water_N_01 	*[Albedo] : Desert_ScatteredRocks_01_Dif 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/Mountain06.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : Mountain06 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_ac_Mirador_a_D.uasset, *[Albedo] : T_ac_Mirador_a_D 	*[GI Texture] : T_ac_Mirador_a_li 	*[Normal] : T_ac_Mirador_a_N 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_ac_Mirador_a_D1.uasset, *[Albedo] : T_ac_Mirador_a_D 	*[GI Texture] : T_ac_Mirador_a_li 	*[Normal] : T_ac_Mirador_a_N 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_ac_Mirador_a_WS.uasset, *[weather Tex] : weather_m 	*[Normal] : T_ac_Mirador_a_N 	*[Albedo] : T_ac_Mirador_a_D 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_ac_Mirado_a_01_dn.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : T_ac_Mirado_a_01_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_F_10_Midplant_A.uasset, *[Normal] : T_tr_Yucca_Leaf1_no 	*[Albedo] : T_F_10_MiDplant_A_dn 	*[Mask] : T_tr_Yucca_Leaf1_me 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_F_10_Midplant_A1.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : T_F_10_MiDplant_A_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_F_10_Midplant_A2.uasset, *[Normal] : T_tr_Yucca_Leaf1_no 	*[Albedo] : T_F_10_MiDplant_A_dn 	*[Mask] : T_tr_Yucca_Leaf1_me 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_F_10_Midplant_A3.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : T_F_10_MiDplant_A_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_Plant_Ferns_D.uasset, *[Mask] : T_Plant_Ferns_ME 	*[Albedo] : T_Plant_Ferns_D 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_Plant_Ferns_D3.uasset, *[Mask] : T_Plant_Ferns_ME 	*[Albedo] : T_Plant_Ferns_D 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_Plant_Ferns_D4.uasset, *[Mask] : T_Plant_Ferns_ME 	*[Albedo] : T_Plant_Ferns_D 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_Plant_Ferns_D5.uasset, *[Mask] : T_Plant_Ferns_ME 	*[Albedo] : T_Plant_Ferns_D 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_tr_Fern_a_01_dn.uasset, *[Normal] : T_tr_Fern_a_01_no 	*[Albedo] : T_tr_Fern_a_01_dn 	*[Mask] : T_tr_Fern_a_01_me 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_tr_Fern_a_01_dn1.uasset, *[Normal] : T_tr_Fern_a_01_no 	*[Albedo] : T_tr_Fern_a_01_dn 	*[Mask] : T_tr_Fern_a_01_me 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_tr_Fern_a_01_GB.uasset, *[Normal] : T_tr_Fern_a_01_no 	*[Albedo] : T_tr_Fern_a_01_dn 	*[Mask] : T_tr_Fern_a_01_me 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_tr_Flower_a_01_dn.uasset, *[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : T_tr_Flower_a_01_dn 	*[Mask] : T_cm_White_a_01_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_tr_Flower_a_01_dn1.uasset, *[Mask] : T_cm_White_a_01_dn 	*[Albedo] : T_tr_Flower_a_01_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/M_tr_Flower_a_01_GB.uasset, *[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : T_tr_Flower_a_01_dn 	*[Mask] : T_tr_Flower_a_01_me 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/T_tr_Tree_bark2_dn.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_tr_Tree_bark2_no 	*[Albedo] : T_tr_Tree_bark2_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/T_tr_Tree_Branch2r_dn.uasset, *[Normal] : T_tr_Tree_Branch2_no 	*[Albedo] : T_tr_Tree_Branch2_dn 	*[Mask] : T_tr_Tree_Branch2_me 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/T_tr_Tree_Branch2r_dn2.uasset, *[Normal] : T_tr_Tree_Branch2_no 	*[Albedo] : T_tr_Tree_Branch2_dn 	*[Mask] : T_tr_Tree_Branch2_me 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/T_tr_Yucca_bark1_dn.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : T_tr_Yucca_bark1_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/T_tr_Yucca_Leaf1_dn1.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : T_tr_Yucca_Leaf1_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/T_tr_Yucca_Leaf1_dn2.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : T_tr_Yucca_Leaf1_dn 	
+D:/[BlessMobile_Sub]/depot/Main-TF/Client/Content/BG/1_COR/Forest/Material/T_tr_Yucca_Leaf1_dn3.uasset, *[Mask] : mask_0_1_1 	*[Normal] : T_cm_DefaultNormal_a_01_dn 	*[Albedo] : T_tr_Yucca_Leaf1_dn 	
