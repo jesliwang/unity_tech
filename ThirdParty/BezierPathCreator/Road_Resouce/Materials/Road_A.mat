@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Road_A
+  m_Shader: {fileID: 4800000, guid: b52b41ee657c79444948bc2d209314cd, type: 3}
+  m_ShaderKeywords: ROAD WATER _ALPHAPREMULTIPLY_ON _CULL_FRONT _EMISSION
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BrendMask:
+        m_Texture: {fileID: 2800000, guid: 7d1ae718803ce354b8e56138c620b553, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BrendTex:
+        m_Texture: {fileID: 2800000, guid: 05f92e13e10c14c4f8e6ecefea02488b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FoamTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FoamTex_A:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 34795b081fc87b240b4036ffeed9efd1, type: 3}
+        m_Scale: {x: 1, y: 6.6}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexMask:
+        m_Texture: {fileID: 2800000, guid: d264fcc43c760c149aaa75284293c2ad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex_A:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex_B:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OceanNormalMap_A:
+        m_Texture: {fileID: 2800000, guid: 09ad1c204a2fd2443909727d3d7c02e3, type: 3}
+        m_Scale: {x: 0.5, y: 10}
+        m_Offset: {x: 0, y: 0}
+    - _OceanNormalMap_B:
+        m_Texture: {fileID: 2800000, guid: 09ad1c204a2fd2443909727d3d7c02e3, type: 3}
+        m_Scale: {x: 0.5, y: 20}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RiverNormalMap_A:
+        m_Texture: {fileID: 2800000, guid: 09ad1c204a2fd2443909727d3d7c02e3, type: 3}
+        m_Scale: {x: 0.5, y: 10}
+        m_Offset: {x: 0, y: 0}
+    - _RiverNormalMap_B:
+        m_Texture: {fileID: 2800000, guid: 09ad1c204a2fd2443909727d3d7c02e3, type: 3}
+        m_Scale: {x: 0.5, y: 20}
+        m_Offset: {x: 0, y: 0}
+    - _WaveFoamMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaveTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BlendOp: 0
+    - _BumpScale: 1
+    - _CameraFadingEnabled: 0
+    - _CameraFarFadeDistance: 2
+    - _CameraNearFadeDistance: 1
+    - _ColorMode: 0
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DistortionBlend: 0.5
+    - _DistortionEnabled: 0
+    - _DistortionStrength: 1
+    - _DistortionStrengthScaled: 0
+    - _DstBlend: 10
+    - _EmissionEnabled: 0
+    - _FlipbookMode: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.153
+    - _GlossyReflections: 1
+    - _IsZWrite: 0
+    - _LightingEnabled: 0
+    - _Metallic: 0
+    - _Mode: 3
+    - _OcclusionStrength: 1
+    - _OceanNormalMap_A_Scale: 1
+    - _OceanNormalMap_A_Time_U: 0
+    - _OceanNormalMap_A_Time_V: 5
+    - _OceanNormalMap_B_Scale: 2
+    - _OceanNormalMap_B_Time_U: 0
+    - _OceanNormalMap_B_Time_V: 3
+    - _OceanReflact: 0.207
+    - _OceanSpecularRange: 41.7
+    - _OceanfloorAlpha: 0.922
+    - _Parallax: 0.02
+    - _RiverNormalMap_A_Time_V: 5
+    - _RiverNormalMap_B_Time_V: 3
+    - _RiverReflact: 0.217
+    - _RiverSpecularRange: 50
+    - _RiverfloorAlpha: 1
+    - _SmoothnessTextureChannel: 0
+    - _SoftParticlesEnabled: 0
+    - _SoftParticlesFarFadeDistance: 1
+    - _SoftParticlesNearFadeDistance: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _Wave_Speed: 0
+    - _ZWrite: 0
+    m_Colors:
+    - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _OceanColor: {r: 0.32836416, g: 0.3940968, b: 0.4433962, a: 1}
+    - _OceanSpecularColor: {r: 0.75226945, g: 0.990566, b: 0.98580104, a: 1}
+    - _RiverColor: {r: 0.3450961, g: 0.4360065, b: 0.5188679, a: 1}
+    - _RiverSpecularColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
